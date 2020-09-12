@@ -1,0 +1,3 @@
+function getHistory(){
+    document.getElementById()
+}
